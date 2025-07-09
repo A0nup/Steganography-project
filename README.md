@@ -23,4 +23,6 @@ Hide text inside images using steganography.
 5. Use 'Decode Message' to extract hidden data from an image.
 
 ## Deliverable:
-GUI application to hide and extract messages from images.
+GUI application to hide and extract messages from images.  
+
+ LICENSE
